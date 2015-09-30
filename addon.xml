@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="resource.images.languageflags" name="Language Flags" version="0.0.1" provider-name="im85288">
+	<extension point="kodi.resource.images" compile="true" type="language" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Langauge Flag Icons</summary>
+		<description lang="en">Language flags</description>
+		<platform>all</platform>
+		<license>Creative Commons Attribution 3.0</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source>https://github.com/im85288/resource.images.languageflags</source>
+	</extension>
+</addon>
